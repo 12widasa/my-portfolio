@@ -3,7 +3,7 @@ import React from "react";
 import { Link } from "react-scroll";
 
 // import myimage
-import myimage from "../assets/img/coba.png";
+import myimage from "../assets/img/about1.jpg";
 
 const Hero = () => {
     return (
